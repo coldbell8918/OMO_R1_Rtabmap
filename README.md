@@ -1,4 +1,4 @@
-# OMO R1 robot ROS package
+# OMO R1 robot ROS package + rtabmap
 
 Melodic Version
 
