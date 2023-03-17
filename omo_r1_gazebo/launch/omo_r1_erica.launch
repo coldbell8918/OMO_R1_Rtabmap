@@ -3,6 +3,8 @@
   <arg name="y_pos" default="-1.5"/>
   <arg name="z_pos" default="0.0"/>
 
+  <include file="$(find omo_r1_bringup)/launch/omo_r1_remote.launch"/>
+
   <include file="$(find gazebo_ros)/launch/empty_world.launch">
     <arg name="world_name" value="$(find omo_r1_gazebo)/worlds/erica.world"/>
     <arg name="paused" value="false"/>
