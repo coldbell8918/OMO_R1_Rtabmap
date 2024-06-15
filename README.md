@@ -3,7 +3,7 @@ https://github.com/coldbell8918/OMO_R1_Rtabmap/assets/98142691/ebcea2ef-a05e-47f
 ### Usage
 ```
 $ roslaunch omo_r1_gazebo omo_r1_erica.launch
-$ roslaunch omo_r1_navigation omo_r1_rtabmap_navigation.launch
+$ roslaunch omo_r1_gazebo omo_r1_rtabmap_mapping.launch
 ```
 
   
